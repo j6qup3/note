@@ -1,7 +1,8 @@
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [Atom](#atom)
-  - [Atom 套件](#atom-)
-  - [Atom 原生操作](#atom--1)
+  - [Atom 基本設定](#atom-)
+  - [Atom 套件](#atom--1)
+  - [Atom 原生操作](#atom--2)
   - [MD 相關套件操作](#md-)
   - [程式美化](#)
 - [Safari](#safari)
@@ -11,6 +12,11 @@
 `A + B` 表示 A、B 一起按，`A > B` 表示先按 A 再按 B
 
 # Atom
+
+## Atom 基本設定
+Tab: 4
+自動加一行關掉
+專案自動記憶上次關掉的
 
 ## Atom 套件
 - activate-power-mode
