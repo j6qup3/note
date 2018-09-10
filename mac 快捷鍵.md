@@ -1,6 +1,7 @@
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [Atom](#atom)
-  - [Atom 原生操作](#atom-)
+  - [Atom 套件](#atom-)
+  - [Atom 原生操作](#atom--1)
   - [MD 相關套件操作](#md-)
   - [程式美化](#)
 - [Safari](#safari)
@@ -10,6 +11,29 @@
 `A + B` 表示 A、B 一起按，`A > B` 表示先按 A 再按 B
 
 # Atom
+
+## Atom 套件
+- activate-power-mode
+- atom-autocomplete-php
+- atom-beautify
+- atom-debug-ui
+- atom-ide-ui
+- cht-menu
+- hyperclick
+- hyperclick-php
+- ide-php
+- language-blade
+- language-markdown
+- language-renpy
+- laravel
+- markdown-pdf
+- markdown-scroll-sync
+- markdown-toc-auto
+- markdown-writer
+- minimap
+- php-debug
+- project-manager
+
 ## Atom 原生操作
 - 存擋：`CMD + S`
 - 關閉編輯器：`CMD + Q`
