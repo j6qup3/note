@@ -1,10 +1,10 @@
 <!-- TOC START min:1 max:3 link:true update:true -->
 - [Atom](#atom)
-  - [Atom 基本設定](#atom-)
-  - [Atom 套件](#atom--1)
-  - [Atom 原生操作](#atom--2)
-  - [MD 相關套件操作](#md-)
-  - [程式美化](#)
+    - [Atom 基本設定](#atom-基本設定)
+    - [Atom 套件](#atom-套件)
+    - [Atom 原生操作](#atom-原生操作)
+    - [MD 相關套件操作](#md-相關套件操作)
+    - [程式美化](#程式美化)
 - [Safari](#safari)
 
 <!-- TOC END -->
@@ -14,9 +14,9 @@
 # Atom
 
 ## Atom 基本設定
-Tab: 4
-自動加一行關掉
-專案自動記憶上次關掉的
+Tab: 4 (Edit)
+自動加一行關掉 (Packages-whitespace-ESTN)
+專案自動記憶上次關掉的 (Core-RPWOS-Always)
 
 ## Atom 套件
 - activate-power-mode
